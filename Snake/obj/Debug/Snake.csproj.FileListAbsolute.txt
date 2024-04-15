@@ -1,0 +1,10 @@
+C:\Users\xiaomi\Desktop\шарпы\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\xiaomi\Desktop\шарпы\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\xiaomi\Desktop\шарпы\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\xiaomi\Desktop\шарпы\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\xiaomi\Desktop\шарпы\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\xiaomi\Desktop\шарпы\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\xiaomi\Desktop\шарпы\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\шарпы\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\xiaomi\Desktop\шарпы\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\xiaomi\Desktop\шарпы\Snake\Snake\obj\Debug\Snake.Snakes.resources
